@@ -1,12 +1,12 @@
-- name: Products
+- name: Кондиционеры
   link: /
   new_window: false
   highlight: false
-- name: Our Story
+- name: О нас
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
+- name: Контакты
   link: /contact/
   new_window: false
   highlight: false

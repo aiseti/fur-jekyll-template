@@ -16,8 +16,4 @@ sizes:
   - Medium
   - Large
   - XL
-styles:
-  - name: Green
-    color: '#67aa79'
-    image: /images/products/giraffe/green.jpg
 ---

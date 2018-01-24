@@ -1,26 +1,29 @@
 ---
-title: Contact
-description: Get in touch
-email: fur@example.com
-hero: Get in touch
+title: Контакты
+description: Кондиционеры в Благовещенске купить заказ
+email: aiseti@yandex.ru
+hero: Кондиционеры
 map:
-  latitude: -45.873511
-  longitude: 170.503704
-  address: 'Dunedin, New Zealand'
+  latitude: 50.27961
+  longitude: 127.5405
+  address: Россия Благовещенск
   zoom: 13
 ---
 
 <div class="contact-box">
 	<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
-		<h3>Send us a message</h3>
-		<label for="name">Full Name</label>
-		<input type="text" name="name" id="name" placeholder="Enter your name..." autofocus>
+		<h3>Создать заявку</h3>
+		<label for="name">Имя</label>
+		<input type="text" name="name" id="name" placeholder="Как мы можем к Вам обращаться, имя..." autofocus>
 
-		<label for="email">Email Address</label>
-		<input type="email" name="email" id="email" placeholder="Enter your email..." required inputmode="email">
+		<!--<label for="email">Email</label>-->
+		<!--<input type="email" name="email" id="email" placeholder="Enter your email..." required inputmode="email">-->
 
-		<label for="message">Message</label>
-		<textarea name="message" id="message" placeholder="Enter your message..."></textarea>
+		<label for="email">Телефон и/или Email</label>
+		<input type="text" name="email" id="email" placeholder="Укажите телефон или Email для связи с Вами..." required>
+
+		<label for="message">Сообщение</label>
+		<textarea name="message" id="message" placeholder="Оставьте примечание, если требуется..."></textarea>
 
 		<input type="hidden" name="_to" value="{{ page.email }}">
 		<input type="text" name="_gotcha" style="display: none;">

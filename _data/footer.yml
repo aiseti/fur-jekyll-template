@@ -1,28 +1,14 @@
-- title: General
+- title: Главная
   links:
-    - name: Products
+    - name: Кондиционеры
       link: /
-    - name: Our Story
+    - name: О нас
       link: /about/
-    - name: Contact
+    - name: Контакты
       link: /contact/
-- title: Help
+- title: Помощь
   links:
-    - name: Shipping
+    - name: Доставка
       link: /shipping/
-    - name: Returns
+    - name: Возврат
       link: /returns/
-- title: Social
-  links:
-    - name: Fur
-      link: 'https://www.facebook.com/'
-      new_window: true
-      social_icon: Facebook
-    - name: Fur
-      link: 'https://www.instagram.com/'
-      new_window: true
-      social_icon: Instagram
-    - name: "@Fur"
-      link: 'https://www.twitter.com'
-      new_window: true
-      social_icon: Twitter

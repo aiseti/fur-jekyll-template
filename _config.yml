@@ -1,22 +1,22 @@
 # ----
 # Site
 
-title: Fur
+title: АИСЕТИ
 url: "http://turquoise-rook.cloudvent.net/"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-109260976-1
 google_maps_javascript_api_key:
 snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Fur t-shirt store
+description: Кондиционеры в Благовещенске
 author:
-  name: fur
-  email: fur@example.com
-  twitter: fur # twitter username without the @ symbol
+  name: АИСЕТИ
+  email: aiseti@yandex.ru
+  twitter: aiseti
 social:
-  name: Fur Template
+  name: aiseti@yandex.ru
   links:
     - https://github.com/CloudCannon/fur-jekyll-template
 

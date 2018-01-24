@@ -16,8 +16,4 @@ sizes:
   - Medium
   - Large
   - XL
-styles:
-  - name: Blue
-    color: '#39589e'
-    image: /images/products/lion/blue.jpg
 ---
